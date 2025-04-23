@@ -18,8 +18,8 @@ Bienvenido a mi portfolio profesional. Soy Dan Alvarado, consultor y analista es
 
 | Proyecto | Descripción | Herramientas |
 |---------|-------------|--------------|
-| [Sistema de Compras - Construcción](./sistema-compras-construccion) | Automatización de compras y pagos | Sheets, Apps Script, Looker, Power BI |
-| [Análisis Créditos - Mayorista](./analisis-creditos-mayorista) | Análisis financiero y notas de crédito | Excel, Power BI |
+| [Sistema de Compras - Construcción], sistema-compras-construccion | Automatización de compras y pagos | Sheets, Apps Script, Looker, Power BI |
+| [Análisis Créditos - Mayorista], analisis-creditos-mayorista | Análisis financiero y notas de crédito | Excel, Power BI |
 
 
 ---
