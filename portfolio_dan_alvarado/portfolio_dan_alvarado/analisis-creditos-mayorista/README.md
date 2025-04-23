@@ -4,8 +4,6 @@
 
 ## 🗂️ Archivos disponibles
 
-- 📄 [Base de datos en Excel](https://drive.google.com/drive/folders/1yqzRtJMcIpExscgkBFi83QVfU34FZ0qM?usp=sharing)
-- 📊 Archivo de Power BI
 - 📑 PDF con explicación del análisis, conclusiones y sugerencias
 
 ## 🎯 Objetivos
