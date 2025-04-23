@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Dan Alvarado
 
-🎯 Analista de Datos | Consultor Freelance | Fundador de "De la Idea al Negocio"
+🎯 Analista de Datos | Consultor Freelance | Fundador de "De la Idea, al Negocio"
 
-Ayudo a emprendedores y negocios a transformar datos en decisiones. Combino herramientas como Power BI, Python, SQL, Excel y Apps Script para automatizar reportes, descubrir oportunidades y resolver problemas reales.
+Bienvenido a mi portfolio profesional. Soy Dan Alvarado, consultor y analista especializado en automatización de procesos, visualización de datos y soluciones a medida para negocios.
 
 ---
 
@@ -14,13 +14,13 @@ Ayudo a emprendedores y negocios a transformar datos en decisiones. Combino herr
 
 ---
 
-## 🔍 Proyectos destacados
+## 📌 Proyectos Destacados
 
 | Proyecto | Descripción | Herramientas |
 |---------|-------------|--------------|
-| [Dashboard de Ventas](https://github.com/tuusuario/ventas-powerbi) | Visualización interactiva de KPIs de ventas | Power BI |
-| [Limpieza de Datos](https://github.com/tuusuario/etl-python) | Pipeline básico de limpieza y análisis | Python, Pandas |
-| [Automatización de Reportes](https://github.com/tuusuario/scripts-google-sheets) | Generación automática de informes | Apps Script, Google Sheets |
+| [Sistema de Compras - Construcción](./sistema-compras-construccion) | Automatización de compras y pagos | Sheets, Apps Script, Looker |
+| [Análisis Créditos - Mayorista](./analisis-creditos-mayorista) | Análisis financiero y notas de crédito | Excel, Power BI |
+
 
 ---
 
@@ -35,5 +35,5 @@ Ayudo a emprendedores y negocios a transformar datos en decisiones. Combino herr
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](www.linkedin.com/in/dan-augusto-alvarado-leguizamón-250aa991)
 - ✉️ [danaugustoa@gmail.com]
