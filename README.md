@@ -1,39 +1,43 @@
 # 👋 ¡Hola! Soy Dan Alvarado
 
-🎯 Analista de Datos | Consultor Freelance | Fundador de "De la Idea, al Negocio"
+## 📊 Analista de Datos | Consultor Freelance | Fundador de "De la Idea, al Negocio"
 
-Bienvenido a mi portfolio profesional. Soy Dan Alvarado, consultor y analista especializado en automatización de procesos, visualización de datos y soluciones a medida para negocios.
-
----
-
-## 🚀 Sobre mí
-
-- 💼 Consultor independiente en inteligencia de negocios
-- 📊 Experiencia en análisis de datos, visualización y automatización
-- 🧠 Apasionado por ayudar a otros a convertir ideas en estrategias
+Bienvenido a mi portfolio profesional. Me especializo en automatización de procesos, visualización de datos y soluciones personalizadas para negocios.
 
 ---
 
-## 📌 Proyectos Destacados
+## 🧠 Sobre Mí
 
-| Proyecto | Descripción | Herramientas |
-|---------|-------------|--------------|
-| [Sistema de Compras - Construcción], sistema-compras-construccion | Automatización de compras y pagos | Sheets, Apps Script, Looker, Power BI |
-| [Análisis Créditos - Mayorista], analisis-creditos-mayorista | Análisis financiero y notas de crédito | Excel, Power BI |
-
+- Consultor independiente en inteligencia de negocios.
+- Experiencia en análisis de datos, visualización y automatización.
+- Apasionado por ayudar a otros a convertir ideas en estrategias.
 
 ---
 
-## 🛠️ Habilidades
+## 🚀 Proyectos Destacados
 
-- **Visualización:** Power BI, Excel, Looker Studio
-- **Análisis de datos:** Python (pandas, seaborn), SQL
-- **Automatización:** Google Apps Script, Excel VBA
-- **Consultoría:** Diagnóstico de procesos, generación de insights, acompañamiento estratégico
+### [Sistema de Compras - Construcción](enlace-al-proyecto)
+**Descripción**: Automatización del proceso de compras y pagos en una empresa de construcción.
+**Herramientas**: Google Sheets, Apps Script, Looker Studio, Power BI.
+
+### [Análisis de Créditos - Mayorista](enlace-al-proyecto)
+**Descripción**: Análisis financiero y gestión de notas de crédito para una empresa mayorista.
+**Herramientas**: Excel, Power BI.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes**: SQL, JavaScript (Apps Script), DAX.
+- **Herramientas de BI**: Power BI, Looker Studio.
+- **Automatización**: Google Apps Script, Excel VBA.
+- **Visualización**: Canva, Tableau.
+- **Bases de Datos**: MySQL, PostgreSQL.
 
 ---
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](www.linkedin.com/in/dan-augusto-alvarado-leguizamón-250aa991)
-- ✉️ [danaugustoa@gmail.com]
+- 📧 Email: danaugustoa@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/dan-augusto-alvarado-leguizamón-250aa991
+- 
