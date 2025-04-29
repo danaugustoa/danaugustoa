@@ -16,11 +16,11 @@ Bienvenido a mi portfolio profesional. Me especializo en automatización de proc
 
 ## 🚀 Proyectos Destacados
 
-### [Sistema de Compras - Construcción](enlace-al-proyecto)
+### Sistema de Compras - Construcción
 **Descripción**: Automatización del proceso de compras y pagos en una empresa de construcción.
 **Herramientas**: Google Sheets, Apps Script, Looker Studio, Power BI.
 
-### [Análisis de Créditos - Mayorista](enlace-al-proyecto)
+### Análisis de Créditos - Mayorista
 **Descripción**: Análisis financiero y gestión de notas de crédito para una empresa mayorista.
 **Herramientas**: Excel, Power BI.
 
