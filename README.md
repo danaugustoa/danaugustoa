@@ -28,12 +28,11 @@ Bienvenido a mi portfolio profesional. Me especializo en automatización de proc
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes**: SQL, JavaScript (Apps Script), DAX.
+- **Lenguajes**: DAX.
 - **Herramientas de BI**: Power BI, Looker Studio.
 - **Automatización**: Google Apps Script, Excel VBA.
-- **Visualización**: Canva, Tableau.
-- **Bases de Datos**: MySQL, PostgreSQL.
-
+- **Visualización**: Canva, Tableau, Power BI
+-
 ---
 
 ## 📫 Contacto
