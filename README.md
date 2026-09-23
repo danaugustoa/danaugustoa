@@ -32,7 +32,7 @@ Bienvenido a mi portfolio profesional. Me especializo en automatización de proc
 - **Herramientas de BI**: Power BI, Looker Studio.
 - **Automatización**: Google Apps Script, Excel VBA.
 - **Visualización**: Canva, Tableau, Power BI
--
+-"Actualmente profundizando SQL aplicado a integración de datos"
 ---
 
 ## 📫 Contacto
